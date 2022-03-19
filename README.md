@@ -1,23 +1,40 @@
-# 
-<p align="center">
-<img src="./img/PDrunner.png" width="200" height="200" />
-</p>
-<h1 align="center">PD Runner</h1>
-<h3 align="center">A tool for Parallels Desktop can start VMs even the trial period has expired</br>
-(Support for PD17.1.0 or earlier)</h3> 
+<h1 align="center">
+  <br>
+  <a href="https://github.com/DopeSatan/PD-Runner">
+  <img src="https://bit.ly/3tlz3Me" width="200" height="200"
+  alt="PD Runner">
+  </a><br>
+  PD Runner
+  <br>
+</h1>
+ 
+<p align="center">Tool for Parallels Desktop<br>
+  that can start VMs even<br>
+  after the trial is expired</p>
 
-<p align="center">
-Only for learning and research use, please support the genuine</br>
-<a href="./README.md">中文版本</a>
-</p>
+## 🛠 Usage Guide
+[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
+[![](https://img.shields.io/github/languages/count/DopeSatan/PD-Runner?style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/search?l=shell)‎ ‎
+[![](https://img.shields.io/github/license/DopeSatan/PD-Runner?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎
+[![](https://img.shields.io/github/languages/top/DopeSatan/PD-Runner?color=light%20green&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android)‎ ‎ <br>
+- Download [Parallels Desktop](https://www.parallels.com/eu/)
+- Activate the trial period inside it
+- Download the **"PD Runner.zip"** file below
+- Extract the zip file and get the **"PD Runner.app"**
+- Copy **"PD Runner.app"** to **"Applications"** Folder
+- Click the menubar icon to list all the VMs on your Mac
+- Start any VM with `PD Runner` by clicking on it from the list<br>
 
-## Screenshot
-<img src="./img/Screenshot.png" width=920 align=center />  
+<a href="https://github.com/DopeSatan/PD-Runner/raw/main/PD%20Runner.zip">
+<img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
+alt="Tsunami App Download"></a><br>ㅤ
 
-## Usage 
-PD Runner will show an icon in the menu bar. Click menubar icon to list all the VMs on your Mac, then click on the vm you want to start. 
+> ## DISCLAIMER:
+> **Only for learning and research use!<br>
+> Please delete this within twenty four<br>
+> hours after downloading PD Runner.**
 
-## Q&A
+## ❓ Frequently Asked Questions
 **1. Why do I need to enter a password when first run?**  
 > Because of the new authentication measure introduced in PD 17.1.0, you need to bypass it by quickly switching the system time. A "Privileged Helper" needs to be installed on the system to change the time.  
 > If you don't do this, you will need to enter the password every time you start an VM.  
@@ -26,17 +43,11 @@ PD Runner will show an icon in the menu bar. Click menubar icon to list all the 
 >PD Runner is a menu-based application, it only show an icon in the menu bar for use after starting, and there is no main window.  
 
 **3. Do I need to change the VM to a specific name to use it?**  
-> No, PD Runner can automatically list the VMs in the current system automatically.  
+> No, PD Runner can automatically list the VMs in the current system automatically.
 
-**4. I get an error message when installing the helper**  
+## ✒️ Credits
+[lihaoyun6](https://github.com/lihaoyun6/) and [MikeWang000000](https://github.com/MikeWang000000/) originally made the PD Runner app for macOS. But the repository was taken down due to a DMCA takedown notice. Hence, the credits goes to them for creating this amazing application. You can read more about the DMCA takedown notice from [here](https://github.com/github/dmca/blob/master/2022/01/2022-01-19-parallels.md).
 
-- If you see the error code "**Domain=CFError DomainLaunchd Code=9**"  
-
-> Please run the following command in Terminal and enter the password. Then restart PD Runner and it will work normally.  
-> `sudo launchctl enable system/com.lihaoyun6.PD-Runner-Helper`  
-
-- If the system say "**「com.lihaoyun6.pd-runner-helper」 will damage your computer.**"  
-<img src="./img/error1_en.png" width="180" />  
-
-> This is caused by the expiration of the temporary developer certificate I used. Use the "Uninstall-Helper" app included in the release to remove the residual items of the old version, and then reopen PD runner normally.  
-> 
+## 📞 Contacts
+For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
+[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
