@@ -2,37 +2,41 @@
 <p align="center">
 <img src="./img/PDrunner.png" width="200" height="200" />
 </p>
-<h1 align="center">PD Runner (补档)</h1>
-<p align="center"><i>补档说明：源代码版本为 v0.1.12，发行版本为 v0.3.6</i></br></p>
-<h3 align="center">适用于Parallels Desktop的启动器, 可无视试用期限强制启动客户机 (支持 PD17.1.0)</h3> 
+<h1 align="center">PD Runner</h1>
+<h3 align="center">A tool for Parallels Desktop can start VMs even the trial period has expired</br>
+(Support for PD17.1.0 or earlier)</h3> 
+
 <p align="center">
-本项目仅用于学习研究使用, 请支持正版!</br>
+Only for learning and research use, please support the genuine</br>
+<a href="./README.md">中文版本</a>
 </p>
 
-## 运行截图
+## Screenshot
 <img src="./img/Screenshot.png" width=920 align=center />  
 
-## 使用
-PD Runner是一个菜单栏APP, 启动后会在菜单栏显示程序图标. 点击菜单栏图标可列出当前Mac上安装的所有客户机, 然后点击客户机名称即可启动对应的客户机.  
+## Usage 
+PD Runner will show an icon in the menu bar. Click menubar icon to list all the VMs on your Mac, then click on the vm you want to start. 
 
-## 常见问题
-**1. 什么首次启动会需要输入密码?**  
-> 因为针对PD 17.1.0新引入的鉴权措施, 需要通过快速切换系统时间来绕过. 所以需要向系统中安装一个特权助理, 方便进行修改时间的操作. 如果不这样做, 那么每次启动虚拟机的时候就都需要输入一次密码.  
+## Q&A
+**1. Why do I need to enter a password when first run?**  
+> Because of the new authentication measure introduced in PD 17.1.0, you need to bypass it by quickly switching the system time. A "Privileged Helper" needs to be installed on the system to change the time.  
+> If you don't do this, you will need to enter the password every time you start an VM.  
 
-**2. 为什么PD Runner启动后没有任何窗口?**  
-> 因为PD Runner是一款菜单栏APP, 启动后只会在菜单栏显示一个图标以供使用, 并没有主窗口.  
+**2. Why does PD Runner start without any windows?**  
+>PD Runner is a menu-based application, it only show an icon in the menu bar for use after starting, and there is no main window.  
 
-**3. 虚拟机需要修改为指定的名称才能使用吗?**  
-> 不需要, PD Runner可以全自动识别当前系统中的客户机, 并自动列出. 不要用户干预.  
+**3. Do I need to change the VM to a specific name to use it?**  
+> No, PD Runner can automatically list the VMs in the current system automatically.  
 
-**4. 安装帮助程序时弹出错误提示怎么办?**  
+**4. I get an error message when installing the helper**  
 
-- 如果您看到的错误代码为"**Domain=CFError DomainLaunchd Code=9**"  
+- If you see the error code "**Domain=CFError DomainLaunchd Code=9**"  
 
-> 请尝试在系统的"终端"APP中执行以下命令, 并输入密码, 然后再次启动PD Runner既可正常使用 (输入密码的过程是不显示密码的, 并不是没有输入进去, 正常输入并回车既可)   
+> Please run the following command in Terminal and enter the password. Then restart PD Runner and it will work normally.  
 > `sudo launchctl enable system/com.lihaoyun6.PD-Runner-Helper`  
 
-- 如果提示为"**"com.lihaoyun6.PD-Runner-Helper"将对您的电脑造成伤害。**"  
-<img src="./img/error1.png" width="180" />  
+- If the system say "**「com.lihaoyun6.pd-runner-helper」 will damage your computer.**"  
+<img src="./img/error1_en.png" width="180" />  
 
-> 这是因为我使用的临时开发者证书过期所致, 可以使用诸如Clean My Mac的卸载工具卸载旧版本, 或使用Release中附带的"Uninstall-Helper"清除旧版残余项目, 然后重新打开PD Runner即可.  
+> This is caused by the expiration of the temporary developer certificate I used. Use the "Uninstall-Helper" app included in the release to remove the residual items of the old version, and then reopen PD runner normally.  
+> 
