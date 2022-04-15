@@ -26,8 +26,7 @@
 - Start any VM with `PD Runner` by clicking on it from the list<br>
 
 <a href="https://github.com/DopeSatan/PD-Runner/raw/main/PD%20Runner.zip">
-<img src="https://lh3.googleusercontent.com/-IJZuEYk4FQg/YJRSfaSP90I/AAAAAAAAgtg/ykZyNxtzjVkqDpKAbgeeCBTHs2i7IJSxgCLcBGAsYHQ/s16000/Webp.net-resizeimage%2B%25284%2529.png"
-alt="Tsunami App Download"></a><br>ㅤ
+<img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200"></a><br>ㅤ
 
 > ## DISCLAIMER:
 > **Only for learning and research use!<br>
