@@ -14,9 +14,7 @@
 
 ## 🛠 Usage Guide
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
-[![](https://img.shields.io/github/languages/count/DopeSatan/PD-Runner?style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/search?l=shell)‎ ‎
-[![](https://img.shields.io/github/license/DopeSatan/PD-Runner?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎
-[![](https://img.shields.io/github/languages/top/DopeSatan/PD-Runner?color=light%20green&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android)‎ ‎ <br>
+[![](https://img.shields.io/github/license/DopeSatan/PD-Runner?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎ <br>
 - Download [Parallels Desktop](https://www.parallels.com/eu/)
 - Activate the trial period inside it
 - Download the **"PD Runner.zip"** file below
