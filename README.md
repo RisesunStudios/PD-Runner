@@ -39,7 +39,16 @@
 **2. Why does PD Runner start without any windows?**  
 >PD Runner is a menu-based application, it only show an icon in the menu bar for use after starting, and there is no main window.  
 
-**3. Do I need to change the VM to a specific name to use it?**  
+**3.  Why do I get an warning while running or installing PD Runner?**  
+
+<img width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlV0m-2so4STjDi4U1OzyvKfOCcBaLVALyEFrA7x0eQOpf3e65vVObqTCROX7HppyNTOJBufUj34VasxPw6QEbPkdo_XklYiLIlY6XHJcyCFhZi9umw4DKV3OVKousZphozKeKBgLqmTz5-ONfYPy6Kj3bqpO9uEYeBnU_Ld5wEMVW_MTFy7HcpAm/s16000/184446703-2696af41-f626-4dfd-a5a0-b4e54865bd19-modified.png" /> 
+
+> If you get an error message as shown in the picture above please uninstall the PD Runner app from the Applications folder and then run the following command in Terminal as admin. Lastly, install the latest PD Runner app from the releases section of this repo and it will work normally again. 
+```
+ sudo rm -rf /Library/PrivilegedHelperTools/com.lihaoyun6.PD-Runner-Helper && launchctl enable system/com.lihaoyun6.PD-Runner-Helper
+```
+
+**4. Do I need to change the VM to a specific name to use it?**  
 > No, PD Runner can automatically list the VMs in the current system automatically.
 
 ## ✒️ Credits
