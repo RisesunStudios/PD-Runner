@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/DopeSatan/PD-Runner">
-  <img src="https://bit.ly/3PB8V85" width="200" height="200"
+  <img src="https://bit.ly/3PB8V85" width="180" height="auto"
   alt="PD Runner">
   </a><br>
   PD Runner
