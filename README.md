@@ -45,7 +45,7 @@
 
 > If you get an error message as shown in the picture above please uninstall the PD Runner app from the Applications folder and then run the following command in Terminal as admin. Lastly, install the latest PD Runner app from the releases section of this repo and it will work normally again. 
 ```
- sudo rm -rf /Library/PrivilegedHelperTools/com.lihaoyun6.PD-Runner-Helper && launchctl enable system/com.lihaoyun6.PD-Runner-Helper
+ sudo rm -rf /Library/PrivilegedHelperTools/com.lihaoyun6.PD-Runner-Helper && sudo launchctl enable system/com.lihaoyun6.PD-Runner-Helper
 ```
 
 **4. Do I need to change the VM to a specific name to use it?**  
