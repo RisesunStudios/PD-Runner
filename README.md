@@ -43,7 +43,7 @@
 
 <img width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlV0m-2so4STjDi4U1OzyvKfOCcBaLVALyEFrA7x0eQOpf3e65vVObqTCROX7HppyNTOJBufUj34VasxPw6QEbPkdo_XklYiLIlY6XHJcyCFhZi9umw4DKV3OVKousZphozKeKBgLqmTz5-ONfYPy6Kj3bqpO9uEYeBnU_Ld5wEMVW_MTFy7HcpAm/s16000/184446703-2696af41-f626-4dfd-a5a0-b4e54865bd19-modified.png" /> 
 
-> If you get an error message as shown in the picture above please uninstall the PD Runner app from the Applications folder and then run the following command in Terminal as admin. Lastly, install the latest PD Runner app from the releases section of this repo and it will work normally again. 
+> If you get an error message as shown in the picture above please uninstall the PD Runner app from the Applications folder and then run the following command in Terminal as admin. Lastly, install the latest PD Runner app from the releases section of this repository and it will work normally again. 
 ```
  sudo bash -c 'rm -rf /Library/PrivilegedHelperTools/com.lihaoyun6.PD-Runner-Helper && launchctl enable system/com.lihaoyun6.PD-Runner-Helper'
 ```
