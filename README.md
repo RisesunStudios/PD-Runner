@@ -23,7 +23,7 @@
 - Click the menubar icon to list all the VMs on your Mac
 - Start any VM with `PD Runner` by clicking on it from the list<br>
 
-<a href="https://github.com/DopeSatan/PD-Runner/releases">
+<a href="https://github.com/utsanjan/PD-Runner/blob/main/Releases.md">
 <img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200"></a><br>ㅤ
 
 > ## DISCLAIMER:
