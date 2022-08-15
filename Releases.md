@@ -1,4 +1,4 @@
-# Releases
+# PD Runner Releases
 
 #### [🔸 PD Runner v0.3.8](https://xpshort.com/IPrnm)
 - Fixed: PD Runner getting a warning message
