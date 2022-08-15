@@ -1,8 +1,11 @@
-<h5 align="right">
-<a href="https://www.utsanjan.ml/" target="_blank">
-<img alt="Screenshots" title="Screenshots"
-src="https://www.utsanjan.ml/assets/img/logo.png"/>
-</a><br><br>My Portfolio Web-Page resources.<br>
-You can visit my Portfolio to know <br>
-more about me: www.utsanjan.ml</h5>
-  
+# Releases
+
+#### [🔸 PD Runner v0.3.8]()
+- Fixed: PD Runner getting a warning message
+- Added support for Parallels Desktop 18
+#
+#### [🔸 PD Runner v0.3.7]()
+- Fixed: PD Runner getting alias error
+#
+#### [🔸 PD Runner v0.3.7]()
+- Fixed: PD Runner may get stuck when starting at login
