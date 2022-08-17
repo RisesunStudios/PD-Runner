@@ -55,7 +55,7 @@
 
 <img width="260" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkWUI1RmBuPA2lXpEQxj3fJnwmU99JoVxHmyx1BeYExOdGxYDd2ydL0vXlX124u9f2yLshDkvs6oPXyE2WJN1epO9Ycr-drms3YjOq1ZJT-oqPvhUycK3X5Z5zOVWd7OfsvsjT0FxmT3r-ndeP2dckrBovmsyhaz3QbYiMSd1IAzOE-u2Wd82W5b6V/s1600/Untitled%20design-modified.png" /> 
 
-> If you get a message as shown in the picture above then run the following command in Terminal as admin and it will work normally again. 
+> If you get a message as shown in the picture above then run the following command in Terminal as admin and the application will start to work normally again. 
 ```
  sudo spctl --master-disable && xattr -cr /Applications/PD\ Runner.app
 ```
