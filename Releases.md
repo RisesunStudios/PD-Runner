@@ -1,5 +1,5 @@
 # PD Runner Releases
-###### NOTE: If you're facing any issue regarding downloads do refer to [this video](https://youtu.be/Z_gKRgbhkqA).
+###### ‼️ NOTE: If you're facing any issue regarding downloads do refer to [this video](https://youtu.be/Z_gKRgbhkqA).
 
 ### [🔸 PD Runner v0.3.8](https://xpshort.com/IPrnm)
 - Fixed: PD Runner getting a warning message
