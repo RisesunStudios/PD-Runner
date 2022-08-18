@@ -5,8 +5,8 @@
 - Fixed: PD Runner getting a warning message
 - Added support for Parallels Desktop 18
 #
-### [🔸 PD Runner v0.3.7](https://xpshort.com/jFLZ)
+### [🔸 PD Runner v0.3.7](https://techymozo.com/jFLZ)
 - Fixed: PD Runner getting alias error
 #
-### [🔸 PD Runner v0.3.6](https://xpshort.com/5pTG)
+### [🔸 PD Runner v0.3.6](https://techymozo.com/5pTG)
 - Fixed: PD Runner may get stuck when starting at login
