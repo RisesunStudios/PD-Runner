@@ -60,7 +60,7 @@
  sudo spctl --master-disable && xattr -cr /Applications/PD\ Runner.app
 ```
 
-##### ‼️ NOTE: If you still face any issues you can state it [here](https://github.com/utsanjan/PD-Runner/discussions/categories/issues).
+##### ‼️ NOTE: If you still face any issues you can state it [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).
 
 ## ✒️ Credits
 [lihaoyun6](https://github.com/lihaoyun6/) and [MikeWang000000](https://github.com/MikeWang000000/) originally made the PD Runner app for macOS. But the repository was taken down due to a DMCA takedown notice. Hence, the credits goes to them for creating this amazing application. You can read more about the DMCA takedown notice from [here](https://github.com/github/dmca/blob/master/2022/01/2022-01-19-parallels.md).
