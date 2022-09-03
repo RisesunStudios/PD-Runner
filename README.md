@@ -15,7 +15,7 @@
 ## 🛠 Usage Guide
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![](https://img.shields.io/github/license/DopeSatan/PD-Runner?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎ <br>
-- Download [Parallels Desktop](https://www.parallels.com/eu/)
+- Download [Parallels Desktop](https://download.parallels.com/desktop/v17/17.1.4-51567/ParallelsDesktop-17.1.4-51567.dmg?experience=enter_key)
 - Activate the trial period inside it
 - Download the **"PD Runner.zip"** file below
 - Extract the zip file and get the **"PD Runner.app"**
