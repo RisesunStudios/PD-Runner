@@ -4,13 +4,12 @@
   <img src="https://bit.ly/3PB8V85" width="180" height="auto"
   alt="PD Runner">
   </a><br>
-  PD Runner
+  PD Runner 0.3.8
   <br>
 </h1>
  
-<p align="center">Tool for Parallels Desktop<br>
-  that can start VMs even<br>
-  after the trial is expired</p>
+<p align="center">Tool for Parallels Desktop that start
+<br>VMs even after the trial is expired</p>
 
 ## 🛠 Usage Guide
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
