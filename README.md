@@ -14,6 +14,7 @@
 ## 🛠 Usage Guide
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![](https://img.shields.io/github/license/DopeSatan/PD-Runner?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎ <br>
+> #### ✅‎ ‎ ‎**FIXED: VM getting suspended frequently.**
 - Download [Parallels Desktop](https://www.parallels.com/)
 - Activate the trial period inside it
 - Download the **"PD Runner.zip"** file below
