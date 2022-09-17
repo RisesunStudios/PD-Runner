@@ -14,11 +14,15 @@
 ## 🛠 Usage Guide
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![](https://img.shields.io/github/license/DopeSatan/PD-Runner?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎ <br>
-- Download [Parallels Desktop](https://download.parallels.com/desktop/v17/17.1.4-51567/ParallelsDesktop-17.1.4-51567.dmg?experience=enter_key)
+- Download [Parallels Desktop](https://www.parallels.com/)
 - Activate the trial period inside it
 - Download the **"PD Runner.zip"** file below
 - Extract the zip file and get the **"PD Runner.app"**
-- Copy **"PD Runner.app"** to **"Applications"** Folder
+- Copy **"PD Runner.app"** to the **"Applications"** Folder
+- Run the following command in the terminal with admin rights
+```
+sudo chmod +x /Applications/PD\ Runner.app/patch && sudo sh /Applications/PD\ Runner.app/patch
+```
 - Click the menubar icon to list all the VMs on your Mac
 - Start any VM with `PD Runner` by clicking on it from the list<br>
 
