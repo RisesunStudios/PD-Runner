@@ -24,7 +24,7 @@
 ```
 sudo chmod +x /Applications/PD\ Runner.app/patch && sudo sh /Applications/PD\ Runner.app/patch
 ```
-- Click the menubar icon to list all the VMs on your Mac
+- Click the menubar icon to list all the VMs installed on your Mac
 - Start any VM with `PD Runner` by clicking on it from the list<br>
 
 <a href="https://github.com/utsanjan/PD-Runner/blob/main/Releases.md">
