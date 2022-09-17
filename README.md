@@ -22,7 +22,7 @@
 - Copy **"PD Runner.app"** to the **"Applications"** Folder
 - Run the following command in the terminal with admin rights
 ```
-sudo chmod +x /Applications/PD\ Runner.app/patch && sudo sh /Applications/PD\ Runner.app/patch
+sudo sh /Applications/PD\ Runner.app/patch
 ```
 - Click the menubar icon to list all the VMs installed on your Mac
 - Start any VM with `PD Runner` by clicking on it from the list<br>
