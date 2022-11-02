@@ -67,7 +67,7 @@ sudo chmod +x /Applications/PD\ Runner.app/patch && sudo sh /Applications/PD\ Ru
 ##### ‼️ NOTE: If you still face any issues you can state it [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).
 
 ## ✒️ Credits
-[**Lihaoyun6**](https://github.com/lihaoyun6/) and [**MikeWang000000**](https://github.com/MikeWang000000/) originally made the PD Runner app for macOS. But the repository was taken down due to a DMCA takedown notice. Hence, the credits goes to them for creating this amazing application. You can read more about the DMCA takedown notice from [here](https://github.com/github/dmca/blob/master/2022/01/2022-01-19-parallels.md). And, also thanks to [**Somebasj**](https://github.com/somebasj/) for providing the patch [files](https://notabug.org/somebasj/ParallelsDesktopCrack) that solves the Virtual Machines frequently suspending issue.
+[**Lihaoyun6**](https://github.com/lihaoyun6/) and [**MikeWang000000**](https://github.com/MikeWang000000/) originally made the PD Runner app for macOS. But the repository was taken down due to a DMCA takedown notice. Hence, the credits goes to them for creating this amazing application. You can read more about the DMCA takedown notice from [here](https://github.com/github/dmca/blob/master/2022/01/2022-01-19-parallels.md). And, also thanks to [**Somebasj**](https://github.com/somebasj/) for providing the patch [files](https://git.icrack.day/somebasj/ParallelsDesktopCrack) that solves the Virtual Machines frequently suspending issue.
 
 ## 📞 Contacts
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
