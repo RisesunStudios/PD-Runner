@@ -12,16 +12,16 @@
 <br>VMs even after the trial is expired</p>
 
 ## ✨ Updates
+[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
+[![](https://img.shields.io/github/license/DopeSatan/PD-Runner?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎ <br>
 ✅‎ ‎ ‎**VM frequently suspending error fixed**<br>
 ✅‎ ‎ ‎**Added support for Parallels Desktop 18.1.0**<br>
 ✅‎ ‎ ‎**Compatible with MacOS Ventura 13.0 & above**<br>
 
 ### ‼️ NOTE: If you still face any issues feel free to state it [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).
-Please indicate your Mac model, macOS version, and PD version.
+Please do indicate your Mac model, macOS version, and PD version.
 
 ## 🛠 Usage Guide
-[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
-[![](https://img.shields.io/github/license/DopeSatan/PD-Runner?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎ <br>
 - Download [Parallels Desktop](https://www.parallels.com/directdownload/pd/?mode=trial)
 - Download the **"PD Runner.zip"** file below
 - Extract the zip file and get the **"PD Runner.pkg"**
