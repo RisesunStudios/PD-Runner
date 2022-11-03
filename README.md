@@ -11,10 +11,13 @@
 <p align="center">Tool for Parallels Desktop that start
 <br>VMs even after the trial is expired</p>
 
+## ✨ Updates
+✅‎ ‎ ‎**Added support for Parallels Desktop 18.1.0**<br>
+✅‎ ‎ ‎**VM frequently suspending error fixed**
+
 ## 🛠 Usage Guide
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![](https://img.shields.io/github/license/DopeSatan/PD-Runner?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎ <br>
-> #### ✅‎ ‎ ‎**FIXED: VM getting suspended frequently.**
 - Download [Parallels Desktop](https://www.parallels.com/)
 - Activate the trial period inside it
 - Download the **"PD Runner.zip"** file below
