@@ -25,12 +25,9 @@
 - Download the **"PD Runner.zip"** file below
 - Extract the zip file and get the **"PD Runner.app"**
 - Copy **"PD Runner.app"** to the **"Applications"** Folder
-- Run the following command in the terminal with admin rights
-```
-sudo chmod +x /Applications/PD\ Runner.app/patch && sudo sh /Applications/PD\ Runner.app/patch
-```
+- Run PD Runner and enter the admin password in the terminal
 - Click the menubar icon to list all the VMs installed on your Mac
-- Start any VM with `PD Runner` by clicking on it from the list<br>
+- Start any VM with `PD Runner` by clicking on it from the menu list<br>
 
 <a href="https://github.com/utsanjan/PD-Runner/blob/main/Releases.md">
 <img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200"></a><br>ㅤ
