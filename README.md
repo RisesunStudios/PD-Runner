@@ -12,8 +12,8 @@
 <br>VMs even after the trial is expired</p>
 
 ## ✨ Updates
-✅‎ ‎ ‎**Added support for Parallels Desktop 18.1.0**<br>
 ✅‎ ‎ ‎**VM frequently suspending error fixed**<br>
+✅‎ ‎ ‎**Added support for Parallels Desktop 18.1.0**<br>
 
 ### ‼️ NOTE: If you face any issues with the last version you can state it [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).
 
