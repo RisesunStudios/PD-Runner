@@ -13,7 +13,9 @@
 
 ## ✨ Updates
 ✅‎ ‎ ‎**Added support for Parallels Desktop 18.1.0**<br>
-✅‎ ‎ ‎**VM frequently suspending error fixed**
+✅‎ ‎ ‎**VM frequently suspending error fixed**<br>
+
+### ‼️ NOTE: If you face any issues with the last version you can state it [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).
 
 ## 🛠 Usage Guide
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
@@ -66,8 +68,6 @@ sudo chmod +x /Applications/PD\ Runner.app/patch && sudo sh /Applications/PD\ Ru
 ```
  sudo spctl --master-disable && xattr -cr /Applications/PD\ Runner.app
 ```
-
-##### ‼️ NOTE: If you still face any issues you can state it [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).
 
 ## ✒️ Credits
 [**Lihaoyun6**](https://github.com/lihaoyun6/) and [**MikeWang000000**](https://github.com/MikeWang000000/) originally made the PD Runner app for macOS. But the repository was taken down due to a DMCA takedown notice. Hence, the credits goes to them for creating this amazing application. You can read more about the DMCA takedown notice from [here](https://github.com/github/dmca/blob/master/2022/01/2022-01-19-parallels.md). And, also thanks to [**Somebasj**](https://github.com/somebasj/) for providing the patch files that solves the Virtual Machines frequently suspending issue.[ㅤ](https://icrack.day/pdfm)
