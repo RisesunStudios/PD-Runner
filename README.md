@@ -14,20 +14,19 @@
 ## ✨ Updates
 ✅‎ ‎ ‎**VM frequently suspending error fixed**<br>
 ✅‎ ‎ ‎**Added support for Parallels Desktop 18.1.0**<br>
+✅‎ ‎ ‎**Compatible with MacOS Ventura 13.0 & above**<br>
 
 ### ‼️ NOTE: If you still face any issues feel free to state it [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).
+Please indicate your Mac model, macOS version, and PD version.
 
 ## 🛠 Usage Guide
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
 [![](https://img.shields.io/github/license/DopeSatan/PD-Runner?logoColor=red&style=plastic)](https://github.com/utsanjan/Tsunami-Bomber-Android/blob/main/LICENSE)‎ ‎ <br>
-- Download [Parallels Desktop](https://www.parallels.com/)
-- Activate the trial period inside it
+- Download [Parallels Desktop](https://www.parallels.com/directdownload/pd/?mode=trial)
 - Download the **"PD Runner.zip"** file below
-- Extract the zip file and get the **"PD Runner.app"**
-- Copy **"PD Runner.app"** to the **"Applications"** Folder
-- Run PD Runner and enter the admin password in the terminal
-- Click the menubar icon to list all the VMs installed on your Mac
-- Start any VM with `PD Runner` by clicking on it from the menu list<br>
+- Extract the zip file and get the **"PD Runner.pkg"**
+- Run the **.pkg** file and complete the installation process
+- Reinstalling PD is recommended if the above procedure fails<br>
 
 <a href="https://github.com/utsanjan/PD-Runner/blob/main/Releases.md">
 <img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200"></a><br>ㅤ
