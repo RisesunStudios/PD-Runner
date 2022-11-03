@@ -15,7 +15,7 @@
 ✅‎ ‎ ‎**VM frequently suspending error fixed**<br>
 ✅‎ ‎ ‎**Added support for Parallels Desktop 18.1.0**<br>
 
-### ‼️ NOTE: If you face any issues with the last version you can state it [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).
+### ‼️ NOTE: If you still face any issues feel free to state it [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).
 
 ## 🛠 Usage Guide
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
