@@ -18,8 +18,7 @@
 ✅‎ ‎ ‎**Added support for Parallels Desktop 18.1.0**<br>
 ✅‎ ‎ ‎**Compatible with MacOS Ventura 13.0 & above**<br>
 
-### ‼️ NOTE: If you still face any issues feel free to state it [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).
-Please do indicate your Mac model, macOS version, and PD version.
+###### ‼️ NOTE: If you still face any issues, feel free to state them [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).<br>Please do indicate your Mac model, macOS version, and PD version.
 
 ## 🛠 Usage Guide
 - Download [Parallels Desktop](https://www.parallels.com/directdownload/pd/?mode=trial)
