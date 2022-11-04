@@ -28,7 +28,7 @@ Please do indicate your Mac model, macOS version, and PD version.
 - Run the **.pkg** file and complete the installation process
 - Reinstalling PD is recommended if the above procedure fails<br>
 
-<a href="https://github.com/utsanjan/PD-Runner/blob/main/Releases.md">
+<a href="https://github.com/utsanjan/PD-Runner/releases">
 <img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200"></a><br>ㅤ
 
 > ## DISCLAIMER:
