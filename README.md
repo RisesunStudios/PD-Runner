@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://bit.ly/3FE097O">
+  <a href="https://github.com/utsanjan/PD-Runner/releases">
   <img src="https://bit.ly/3PB8V85" width="180" height="auto"
   alt="PD Runner">
   </a><br>
