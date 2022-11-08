@@ -23,11 +23,9 @@
 ## 🛠 Usage Guide
 - Download [Parallels Desktop](https://www.parallels.com/directdownload/pd/?mode=trial) installer
 - Download the **"PD Runner.zip"** file below
-- Extract the zip file and get the **"PD Runner.app"**
-- Move the **".app"** file into mac's applications folder
-- Run PD Runner right from your application drawer
-- Enter the admin password in the terminal window
-- Launch any parallels VM from the menubar icon<br>
+- Extract the zip file and get the **"PD Runner.pkg"**
+- Run the **.pkg** file and complete the installation process
+- Reinstalling PD is recommended if the above procedure fails<br>
 
 <a href="https://github.com/utsanjan/PD-Runner/releases">
 <img src="https://bit.ly/3Ee49cs" alt="Tsunami App Download" width="200"></a><br>ㅤ
