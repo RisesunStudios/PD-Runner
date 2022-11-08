@@ -21,7 +21,7 @@
 ###### ‼️ NOTE: If you still face any issues, feel free to state them [here](https://github.com/utsanjan/PD-Runner/issues/new/choose).<br>Please do indicate your Mac model, macOS version, and PD version.
 
 ## 🛠 Usage Guide
-- Download [Parallels Desktop](https://www.parallels.com/directdownload/pd/?mode=trial)
+- Download [Parallels Desktop](https://www.parallels.com/directdownload/pd/?mode=trial) installer
 - Download the **"PD Runner.zip"** file below
 - Extract the zip file and get the **"PD Runner.app"**
 - Move the **".app"** file into mac's applications folder
