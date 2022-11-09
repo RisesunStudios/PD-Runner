@@ -38,12 +38,18 @@
 ## ❓ Frequently Asked Questions
 **1. Why do I need to enter a password when first run?**  
 > Because of the new authentication measure introduced in PD 17.1.0, you need to bypass it by quickly switching the system time. A "Privileged Helper" needs to be installed on the system to change the time.  
-> If you don't do this, you will need to enter the password every time you start an VM.  
+> If you don't do this, you will need to enter the password every time you start an VM. 
 
-**2. Why does PD Runner start without any windows?**  
+**2. Why do I get "Error: Already Patched"?**  
+
+<img width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqd0DqmMlmp9e1lf6aSSPIlWNrfv2DOyHXSU7H7-6kmjbqbza8LrOW29IILGcQ7a643f1EEhcsslYDrCcB22ufo9woploQhyLLbzKiqf8jMjhxpXEd4AymuiDDIwUXSpdZuAOakxQMlSHbFBxv8BkSUlZ7qQicCmo_JADGXX0f4_a9aGDIrVtxIEVu/s16000/200582083-2dcec692-18cb-47b4-9c9e-fcad1e919015-modified.png" /> 
+
+> If you get such an error, please try re-installing Parallels Desktop with the latest DMG installer. No need of uninstalling, just install it on top of the already existing application. Once re-installed, repeat the patching proceedure with "PD Runner.pkg" file.  
+
+**3. Why does PD Runner start without any windows?**  
 >PD Runner is a menu-based application, it only show an icon in the menu bar for use after starting, and there is no main window.  
 
-**3.  Why do I get an warning while running or installing PD Runner?**  
+**4. Why do I get an warning while running or installing PD Runner?**  
 
 <img width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnlV0m-2so4STjDi4U1OzyvKfOCcBaLVALyEFrA7x0eQOpf3e65vVObqTCROX7HppyNTOJBufUj34VasxPw6QEbPkdo_XklYiLIlY6XHJcyCFhZi9umw4DKV3OVKousZphozKeKBgLqmTz5-ONfYPy6Kj3bqpO9uEYeBnU_Ld5wEMVW_MTFy7HcpAm/s16000/184446703-2696af41-f626-4dfd-a5a0-b4e54865bd19-modified.png" /> 
 
@@ -52,10 +58,10 @@
  sudo bash -c 'rm -rf /Library/PrivilegedHelperTools/com.lihaoyun6.PD-Runner-Helper && launchctl enable system/com.lihaoyun6.PD-Runner-Helper'
 ```
 
-**4. Do I need to change the VM to a specific name to use it?**  
+**5. Do I need to change the VM to a specific name to use it?**  
 > No, PD Runner can automatically list the VMs in the current system automatically.
 
-**5. Why does it say that PD Runner is damaged?**  
+**6. Why does it say that PD Runner is damaged?**  
 
 <img width="260" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkWUI1RmBuPA2lXpEQxj3fJnwmU99JoVxHmyx1BeYExOdGxYDd2ydL0vXlX124u9f2yLshDkvs6oPXyE2WJN1epO9Ycr-drms3YjOq1ZJT-oqPvhUycK3X5Z5zOVWd7OfsvsjT0FxmT3r-ndeP2dckrBovmsyhaz3QbYiMSd1IAzOE-u2Wd82W5b6V/s1600/Untitled%20design-modified.png" /> 
 
