@@ -44,7 +44,7 @@
 
 <img width="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqd0DqmMlmp9e1lf6aSSPIlWNrfv2DOyHXSU7H7-6kmjbqbza8LrOW29IILGcQ7a643f1EEhcsslYDrCcB22ufo9woploQhyLLbzKiqf8jMjhxpXEd4AymuiDDIwUXSpdZuAOakxQMlSHbFBxv8BkSUlZ7qQicCmo_JADGXX0f4_a9aGDIrVtxIEVu/s16000/200582083-2dcec692-18cb-47b4-9c9e-fcad1e919015-modified.png" /> 
 
-> If you get such an error, please try re-installing Parallels Desktop with the latest DMG installer. No need of uninstalling, just install it on top of the already existing application. Once re-installed, repeat the patching proceedure with "PD Runner.pkg" file.  
+> If you get such an error, please try re-installing Parallels Desktop with the latest DMG installer. No need of uninstalling, just install it on top of the already existing application. Once re-installed, repeat the patching procedure with "PD Runner.pkg" file.  
 
 **3. Why does PD Runner start without any windows?**  
 >PD Runner is a menu-based application, it only show an icon in the menu bar for use after starting, and there is no main window.  
